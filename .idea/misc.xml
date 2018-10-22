@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Documents/Scala Functional Programming/forcomp" value="1462297012000" />
+        <entry key="$USER_HOME$/Documents/Scala Functional Programming/funsets" value="1462300040000" />
+        <entry key="$USER_HOME$/Documents/Scala Functional Programming/objsets" value="1462303046000" />
+        <entry key="$USER_HOME$/Documents/Scala Functional Programming/patmat" value="1462360264000" />
+        <entry key="$USER_HOME$/Documents/Scala Functional Programming/recfun" value="1462352930000" />
+        <entry key="$USER_HOME$/Documents/Scala Parallel Programming/kmeans" value="1465218434000" />
+        <entry key="$USER_HOME$/Documents/Scala Parallel Programming/reductions" value="1465217482000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+</project>
